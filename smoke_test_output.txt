@@ -1,0 +1,4 @@
+﻿Signup email: smoke+20251115175233@example.com
+Signup failed: The remote server returned an error: (500) Internal Server Error.. Trying login...
+Login failed: The remote server returned an error: (500) Internal Server Error.
+No token obtained; aborting further requests.
