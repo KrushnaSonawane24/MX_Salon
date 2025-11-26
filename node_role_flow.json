@@ -1,0 +1,422 @@
+{
+    "vendor_register":  {
+                            "id":  "6918826dfc02c0f7837f3a4b",
+                            "email":  "vendor+20251115190853@example.com"
+                        },
+    "customer_register":  {
+                              "id":  "6918826dfc02c0f7837f3a48",
+                              "email":  "customer+20251115190853@example.com"
+                          },
+    "admin_users":  {
+                        "value":  [
+                                      {
+                                          "_id":  "690a192ac5526c901898ef59",
+                                          "name":  "Krushna Khandu Sonawane",
+                                          "email":  "sonawanekrushna830@gmail.com",
+                                          "role":  "vendor",
+                                          "phone":  "9322196346",
+                                          "isBanned":  false,
+                                          "createdAt":  "2025-11-04T15:18:02.503Z",
+                                          "updatedAt":  "2025-11-04T15:18:02.503Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "690a1945c5526c901898ef5f",
+                                          "name":  "Krushna Khandu Sonawane",
+                                          "email":  "sonawanekrushna831@gmail.com",
+                                          "role":  "vendor",
+                                          "phone":  "9322196346",
+                                          "isBanned":  false,
+                                          "createdAt":  "2025-11-04T15:18:29.970Z",
+                                          "updatedAt":  "2025-11-04T15:18:29.970Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "690a2611b21be6ec5e1370cf",
+                                          "name":  "ashutosh",
+                                          "email":  "sonawanekrushna@gmail.com",
+                                          "role":  "customer",
+                                          "phone":  "9049690456",
+                                          "isBanned":  false,
+                                          "createdAt":  "2025-11-04T16:13:05.539Z",
+                                          "updatedAt":  "2025-11-04T18:43:10.704Z",
+                                          "__v":  0,
+                                          "gender":  "male",
+                                          "preferredService":  "all",
+                                          "preferredStylist":  "raj",
+                                          "rememberPreference":  true
+                                      },
+                                      {
+                                          "_id":  "690a26bfb21be6ec5e1370e2",
+                                          "name":  "Krushna Khandu Sonawane",
+                                          "email":  "adityabhiore@gmail.com",
+                                          "role":  "customer",
+                                          "phone":  "9322196346",
+                                          "isBanned":  false,
+                                          "createdAt":  "2025-11-04T16:15:59.771Z",
+                                          "updatedAt":  "2025-11-04T16:15:59.771Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "690a48ab301fea41cdc0b531",
+                                          "name":  "ramesh anna",
+                                          "email":  "yashmane0032@gmail.com",
+                                          "role":  "vendor",
+                                          "phone":  "9322196356",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-04T18:40:43.443Z",
+                                          "updatedAt":  "2025-11-04T18:40:43.443Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "690db3846d2533cada19034d",
+                                          "name":  "ravan",
+                                          "email":  "ravan@gmail.com",
+                                          "role":  "vendor",
+                                          "phone":  "8322196346",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-07T08:53:24.309Z",
+                                          "updatedAt":  "2025-11-07T08:53:24.309Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "690db5736d2533cada190368",
+                                          "name":  "Krushna Khandu Sonawane",
+                                          "email":  "sonawanekrushn830@gmail.com",
+                                          "role":  "customer",
+                                          "phone":  "9322196346",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-07T09:01:39.223Z",
+                                          "updatedAt":  "2025-11-07T09:01:39.223Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "690eae45cec1072d3eb1e24d",
+                                          "name":  "customer",
+                                          "email":  "customer@gmail.com",
+                                          "role":  "customer",
+                                          "phone":  "9322196342",
+                                          "isBanned":  false,
+                                          "rememberPreference":  true,
+                                          "createdAt":  "2025-11-08T02:43:17.974Z",
+                                          "updatedAt":  "2025-11-15T07:26:28.024Z",
+                                          "__v":  0,
+                                          "gender":  "male",
+                                          "preferredService":  "",
+                                          "preferredStylist":  "",
+                                          "lastBookingAt":  "2025-11-27T21:27:00.000Z"
+                                      },
+                                      {
+                                          "_id":  "690eaeabcec1072d3eb1e257",
+                                          "name":  "vendor",
+                                          "email":  "vendor@gmail.com",
+                                          "role":  "vendor",
+                                          "phone":  "9322196341",
+                                          "isBanned":  false,
+                                          "rememberPreference":  true,
+                                          "createdAt":  "2025-11-08T02:44:59.914Z",
+                                          "updatedAt":  "2025-11-12T19:40:10.965Z",
+                                          "__v":  0,
+                                          "lastBookingAt":  "2025-11-27T01:39:00.000Z",
+                                          "gender":  "male",
+                                          "preferredService":  "haicut",
+                                          "preferredStylist":  ""
+                                      },
+                                      {
+                                          "_id":  "691869c603755455f654530b",
+                                          "name":  "krushna sonawane",
+                                          "email":  "krushna@gmail.com",
+                                          "role":  "customer",
+                                          "phone":  "9322196346",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-15T11:53:42.096Z",
+                                          "updatedAt":  "2025-11-15T11:53:42.096Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "69187e241e68cbadb56e36ae",
+                                          "name":  "Demo User",
+                                          "email":  "demo+20251115185035@example.com",
+                                          "role":  "customer",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-15T13:20:36.237Z",
+                                          "updatedAt":  "2025-11-15T13:20:36.237Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "691880abc2d240302e5a18de",
+                                          "name":  "Admin",
+                                          "email":  "admin@example.com",
+                                          "role":  "admin",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-15T13:31:23.364Z",
+                                          "updatedAt":  "2025-11-15T13:31:23.364Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "6918826dfc02c0f7837f3a48",
+                                          "name":  "Cust",
+                                          "email":  "customer+20251115190853@example.com",
+                                          "role":  "customer",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-15T13:38:53.494Z",
+                                          "updatedAt":  "2025-11-15T13:38:53.494Z",
+                                          "__v":  0
+                                      },
+                                      {
+                                          "_id":  "6918826dfc02c0f7837f3a4b",
+                                          "name":  "Vend",
+                                          "email":  "vendor+20251115190853@example.com",
+                                          "role":  "vendor",
+                                          "isBanned":  false,
+                                          "rememberPreference":  false,
+                                          "createdAt":  "2025-11-15T13:38:53.863Z",
+                                          "updatedAt":  "2025-11-15T13:38:53.863Z",
+                                          "__v":  0
+                                      }
+                                  ],
+                        "Count":  14
+                    },
+    "customer_login_after_ban_error":  "The remote server returned an error: (403) Forbidden.",
+    "vendor_create_salon":  {
+                                "name":  "Test Salon",
+                                "ownerId":  "6918826dfc02c0f7837f3a4b",
+                                "photos":  [
+
+                                           ],
+                                "videos":  [
+
+                                           ],
+                                "services":  [
+
+                                             ],
+                                "ratingsSummary":  {
+                                                       "average":  0,
+                                                       "count":  0
+                                                   },
+                                "rating":  0,
+                                "staffCount":  0,
+                                "chairsCount":  0,
+                                "experienceYears":  0,
+                                "city":  "Pune",
+                                "openHours":  {
+
+                                              },
+                                "timings":  {
+                                                "open":  "09:00",
+                                                "close":  "18:00"
+                                            },
+                                "_id":  "6918826efc02c0f7837f3a50",
+                                "feedbacks":  [
+
+                                              ],
+                                "createdAt":  "2025-11-15T13:38:54.534Z",
+                                "updatedAt":  "2025-11-15T13:38:54.534Z",
+                                "__v":  0
+                            },
+    "admin_login":  {
+                        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2OTE4ODBhYmMyZDI0MDMwMmU1YTE4ZGUiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NjMyMTM5MzQsImV4cCI6MTc2MzgxODczNH0.dB8kRnuNjqI93YsarMxqROqgMJqP2ZlzMKCO4tkj_mo",
+                        "role":  "admin",
+                        "name":  "Admin",
+                        "email":  "admin@example.com"
+                    },
+    "customer_login":  {
+                           "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2OTE4ODI2ZGZjMDJjMGY3ODM3ZjNhNDgiLCJyb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjMyMTM5MzQsImV4cCI6MTc2MzgxODczNH0.qG3E6xdxyiK7ySdx8A4Um8fSk4zcuZZixaR6WdicNYg",
+                           "role":  "customer",
+                           "name":  "Cust",
+                           "email":  "customer+20251115190853@example.com"
+                       },
+    "vendor_login":  {
+                         "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2OTE4ODI2ZGZjMDJjMGY3ODM3ZjNhNGIiLCJyb2xlIjoidmVuZG9yIiwiaWF0IjoxNzYzMjEzOTM0LCJleHAiOjE3NjM4MTg3MzR9.6KX3DRqfDMSAm0CU51miyQ_t2zJcXnYz4RSNTMLaL_c",
+                         "role":  "vendor",
+                         "name":  "Vend",
+                         "email":  "vendor+20251115190853@example.com"
+                     },
+    "admin_salons":  {
+                         "value":  [
+                                       {
+                                           "_id":  "690a4904301fea41cdc0b539",
+                                           "name":  "Stylo",
+                                           "ownerId":  "690a48ab301fea41cdc0b531",
+                                           "location":  {
+                                                            "lat":  0,
+                                                            "lng":  0,
+                                                            "address":  "704 deccan residency ,near Aditya Hall, Dnyaneshwar Nagar, Indira Nagar, Nashik, Maharashtra 422009",
+                                                            "pincode":  "422009"
+                                                        },
+                                           "photos":  [
+
+                                                      ],
+                                           "videos":  [
+
+                                                      ],
+                                           "services":  [
+                                                            "all"
+                                                        ],
+                                           "ratingsSummary":  {
+                                                                  "average":  0,
+                                                                  "count":  0
+                                                              },
+                                           "rating":  0,
+                                           "staffCount":  3,
+                                           "chairsCount":  0,
+                                           "experienceYears":  0,
+                                           "openHours":  {
+
+                                                         },
+                                           "feedbacks":  [
+
+                                                         ],
+                                           "createdAt":  "2025-11-04T18:42:12.663Z",
+                                           "updatedAt":  "2025-11-04T18:42:12.663Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "690db4e86d2533cada190353",
+                                           "name":  "Krushna Khandu Sonawane",
+                                           "ownerId":  "690db3846d2533cada19034d",
+                                           "location":  {
+                                                            "lat":  0,
+                                                            "lng":  0,
+                                                            "address":  "deccan reciancy near ballavraj hotel ,aditya hall ,nashik",
+                                                            "pincode":  "422009"
+                                                        },
+                                           "photos":  [
+
+                                                      ],
+                                           "videos":  [
+
+                                                      ],
+                                           "services":  [
+
+                                                        ],
+                                           "ratingsSummary":  {
+                                                                  "average":  0,
+                                                                  "count":  0
+                                                              },
+                                           "rating":  0,
+                                           "staffCount":  4,
+                                           "chairsCount":  0,
+                                           "experienceYears":  0,
+                                           "openHours":  {
+
+                                                         },
+                                           "feedbacks":  [
+
+                                                         ],
+                                           "createdAt":  "2025-11-07T08:59:20.855Z",
+                                           "updatedAt":  "2025-11-07T08:59:20.855Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "690eaef3cec1072d3eb1e25d",
+                                           "name":  "Hair Salon",
+                                           "ownerId":  "690eaeabcec1072d3eb1e257",
+                                           "location":  {
+                                                            "lat":  0,
+                                                            "lng":  0,
+                                                            "address":  "deccan reciancy near ballavraj hotel ,aditya hall ,nashik",
+                                                            "pincode":  "422009"
+                                                        },
+                                           "photos":  [
+
+                                                      ],
+                                           "videos":  [
+
+                                                      ],
+                                           "services":  [
+                                                            "all"
+                                                        ],
+                                           "ratingsSummary":  {
+                                                                  "average":  0,
+                                                                  "count":  0
+                                                              },
+                                           "rating":  0,
+                                           "staffCount":  4,
+                                           "chairsCount":  0,
+                                           "experienceYears":  0,
+                                           "openHours":  {
+
+                                                         },
+                                           "feedbacks":  [
+
+                                                         ],
+                                           "createdAt":  "2025-11-08T02:46:11.027Z",
+                                           "updatedAt":  "2025-11-08T02:46:11.027Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6918826efc02c0f7837f3a50",
+                                           "name":  "Test Salon",
+                                           "ownerId":  "6918826dfc02c0f7837f3a4b",
+                                           "photos":  [
+
+                                                      ],
+                                           "videos":  [
+
+                                                      ],
+                                           "services":  [
+
+                                                        ],
+                                           "ratingsSummary":  {
+                                                                  "average":  0,
+                                                                  "count":  0
+                                                              },
+                                           "rating":  0,
+                                           "staffCount":  0,
+                                           "chairsCount":  0,
+                                           "experienceYears":  0,
+                                           "city":  "Pune",
+                                           "openHours":  {
+
+                                                         },
+                                           "timings":  {
+                                                           "open":  "09:00",
+                                                           "close":  "18:00"
+                                                       },
+                                           "feedbacks":  [
+
+                                                         ],
+                                           "createdAt":  "2025-11-15T13:38:54.534Z",
+                                           "updatedAt":  "2025-11-15T13:38:54.534Z",
+                                           "__v":  0
+                                       }
+                                   ],
+                         "Count":  4
+                     },
+    "customer_login_after_unban":  {
+                                       "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2OTE4ODI2ZGZjMDJjMGY3ODM3ZjNhNDgiLCJyb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjMyMTM5MzUsImV4cCI6MTc2MzgxODczNX0.nIMW5mVi0qyByEzLBZ9dh83GAltEo52WDrU5-9j_Lsw",
+                                       "role":  "customer",
+                                       "name":  "Cust",
+                                       "email":  "customer+20251115190853@example.com"
+                                   },
+    "admin_unban_customer":  {
+                                 "_id":  "6918826dfc02c0f7837f3a48",
+                                 "name":  "Cust",
+                                 "email":  "customer+20251115190853@example.com",
+                                 "role":  "customer",
+                                 "isBanned":  false,
+                                 "rememberPreference":  false,
+                                 "createdAt":  "2025-11-15T13:38:53.494Z",
+                                 "updatedAt":  "2025-11-15T13:38:54.947Z",
+                                 "__v":  0
+                             },
+    "admin_ban_customer":  {
+                               "_id":  "6918826dfc02c0f7837f3a48",
+                               "name":  "Cust",
+                               "email":  "customer+20251115190853@example.com",
+                               "role":  "customer",
+                               "isBanned":  true,
+                               "rememberPreference":  false,
+                               "createdAt":  "2025-11-15T13:38:53.494Z",
+                               "updatedAt":  "2025-11-15T13:38:54.786Z",
+                               "__v":  0
+                           }
+}

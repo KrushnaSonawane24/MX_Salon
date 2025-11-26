@@ -1,0 +1,9 @@
+# General
+node_modules/
+.env
+.venv/
+__pycache__/
+backend/ai/*.pkl
+backend/ai/*.pt
+*.log
+.ds_store

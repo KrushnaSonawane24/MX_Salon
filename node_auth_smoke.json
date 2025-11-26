@@ -1,0 +1,23 @@
+{
+    "me":  {
+               "_id":  "69187e241e68cbadb56e36ae",
+               "name":  "Demo User",
+               "email":  "demo+20251115185035@example.com",
+               "role":  "customer",
+               "isBanned":  false,
+               "rememberPreference":  false,
+               "createdAt":  "2025-11-15T13:20:36.237Z",
+               "updatedAt":  "2025-11-15T13:20:36.237Z",
+               "__v":  0
+           },
+    "login":  {
+                  "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2OTE4N2UyNDFlNjhjYmFkYjU2ZTM2YWUiLCJyb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjMyMTI4MzYsImV4cCI6MTc2MzgxNzYzNn0.W8mP6T6_2exS49TZYMMqPxrFHZqb8suuKwtnBZ8CoiY",
+                  "role":  "customer",
+                  "name":  "Demo User",
+                  "email":  "demo+20251115185035@example.com"
+              },
+    "register":  {
+                     "id":  "69187e241e68cbadb56e36ae",
+                     "email":  "demo+20251115185035@example.com"
+                 }
+}

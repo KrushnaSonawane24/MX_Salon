@@ -1,0 +1,24 @@
+{
+  "login": {
+    "title": "वापसी पर स्वागत है",
+    "subtitle": "प्रीमियम सैलून खोजने के लिए साइन इन करें।",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "emailPlaceholder": "demo@mxsalon.com",
+    "passwordPlaceholder": "pass123",
+    "loginButton": "लॉगिन",
+    "continueAsGuest": "गेस्ट के रूप में जारी रखें"
+  },
+  "hero": {
+    "title": "Mx. Salon",
+    "subtitle": "इनक्लूसिव अनुभव, लाइव क्यू और स्मार्ट वेट-टाइम के साथ।",
+    "logoAlt": "Mx. Salon लोगो"
+  },
+  "cta": {
+    "getStarted": "शुरू करें"
+  },
+  "landing": {
+    "topSalons": "टॉप सैलून",
+    "cardNote": "विंटेज प्रेरित सेवा, आधुनिक आराम।"
+  }
+}
